@@ -10,7 +10,8 @@
 - Cloud Platforms: Microsoft Azure (AZ-104, AZ-900), AWS (EC2, S3), Azure DevOps
 - DevOps & Infrastructure: Docker, Kubernetes (AKS), Terraform, Ansible, Jenkins, CI/CD Pipelines
 - Security & IAM: Azure Active Directory, OAuth2.0, OpenID Connect, SAML, MFA, Ping Identity, ForgeRock, ISO 27001 Compliance
-- Databases: MongoDB, PostgreSQL, Azure SQL, Cosmos DB 
+- Databases: MongoDB, PostgreSQL, Azure SQL, Cosmos DB
+- DataAnalytics tools: PowerBI,Tableau, R programming, Excel
 - 👇 Check out my projects below!
 
 <!--
